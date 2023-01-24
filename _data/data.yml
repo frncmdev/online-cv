@@ -38,9 +38,9 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: 
-      - Experienced in Customer Service.
-      - Experienced in Supervising and Managing a team.
+    summary: |
+      Experienced in Customer Service.
+      Experienced in Supervising and Managing a team.
 
 education:
     title: Education
@@ -61,17 +61,17 @@ experiences:
       - role: Team Member
         time: 2021 - Present
         company: Woolworths
-        details: 
-          - Managing a team and supervising
-          - Complying with WH&amp;S legislation
-          - Customer Service
+        details: | 
+          Managing a team and supervising
+          Complying with WH&amp;S legislation
+          Customer Service
       - role: Assistant Teacher
         time: 2017 - 2021
         company: Craigieburn Martial Arts Centre
         details: 
-          - Developing and Executing lesson plans
-          - Teaching and Assessing Students
-          - Complying with WH&amp;S legislation
+          Developing and Executing lesson plans
+          Teaching and Assessing Students
+          Complying with WH&amp;S legislation
 projects:
     title: Projects
     intro: >
