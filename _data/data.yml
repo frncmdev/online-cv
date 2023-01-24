@@ -7,16 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Anh Nguyen
-    tagline: Vocational Education Trainer | Lead Educator
+    name: Jack Sutton
+    tagline: Seeking development Role using C#, TypeScript/ JavaScript and CSS
     avatar: knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: a.nguyen@kangan.edu.au
+    email: administration@frncm.dev
     timezone: AEDT / Australian Eastern Daylight Savings
     citizenship: Australian citizen
-    linkedin: anh-nguyen-99b82baa
-    github: a-nguyen-kangan
+    github: frncmdev
 
     languages:
       title: Languages
@@ -24,8 +23,6 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: Vietnamese
-          level: Basic
 
     interests:
       title: Interests
@@ -33,59 +30,43 @@ sidebar:
         - item: Judo
           link:
 
-        - item: MMA
+        - item: Programming
           link:
 
-        - item: Tennis
+        - item: Cyber Security
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Vocational Education Trainer and course Co-ordinator
-      Experienced corporate trainer
-      Experienced Application Developer
+      Experienced in Customer Service and other soft skills.
+      
 
 education:
     title: Education
     info:
-      - degree: Bachelor of Computer Science
-        university: RMIT University
-        time: 1999 - 2002
-        details: |
-          Majors
-            - AI
-            - Cryptography
-      - degree: Diploma in Vocational Education Training
-        university: Northern Melbourne Institute of TAFE
-        time: 2009
-      - degree: CIV in Training and Assessment
+      - degree: Certificate II in visual arts
+        university: Northern College of the Arts and Technology
+        time: 2019-2020
+      - degree: CII in Computer Assembly and Repair
+        university: Melbourne Polytechnic
+        time: 2021-2022
+      - degree: CIV in IT Programming
         university: Swinburne University
-        time: 2012
+        time: 2022
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Educator
-        time: 20122 - Present
-        company: Bendigo Kangan Institute
+      - role: Team Member
+        time: 2021 - Present
+        company: Woolworths
         details: |
-          Cremorne, Victoria, Australia
-      - role: Vocational Education Trainer, Assessor and Co-ordinator
-        time: 2011 - 2022
-        company: Swinburne University
-        details: |
-          Courses areas created and involved:
-            - CIV and Diploma in Software Development (created)
-            - Cyber Security (taught and developed)
-            - Games Development (taught and developed)
-            - Networking (taught)
-      - role: Training Analyst
-        time: 2014
-        company: Toxfree Solutions
-        details: |
-          ERP - Standardisation
-          Mulgrave, Victoria, Australia
+          Craigieburn, Victoria, Australia
+      - role: Assistant Teacher
+        time: 2017 - 2021
+        company: Craigieburn Martial Arts Centre
+        
 projects:
     title: Projects
     intro: >
@@ -93,9 +74,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: PhoneBook
+      - title: Student Management System
         link: "#hook"
-        tagline: "A responsive website template designed to keep a basic list of contacts."
+        tagline: "A work in progress system for teachers to use to manage classes and students"
 
       - title: Train Kiosk
         link: "#"
@@ -108,20 +89,18 @@ skills:
       - name: C# (ASP.NET)
         level: 80%
 
-      - name: Javascript
+      - name: Typescript
         level: 80%
 
       - name: Angular
-        level: 90%
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
 
       - name: React
-        level: 70%
+        level: 65%
 
-      - name: Adult Education
-        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
