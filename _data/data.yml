@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jack Sutton
-    tagline: Seeking development Role using C#, TypeScript/ JavaScript and CSS
+    tagline: Seeking development Role using C#, TypeScript/ JavaScript and CSS.
     avatar: knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -39,8 +39,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced in Customer Service and other soft skills.
-      
+      Experienced in Customer Service.
+      Experienced in Supervising and Managing a team.
+
 
 education:
     title: Education
@@ -48,10 +49,10 @@ education:
       - degree: Certificate II in visual arts
         university: Northern College of the Arts and Technology
         time: 2019-2020
-      - degree: CII in Computer Assembly and Repair
+      - degree: Certificate II in Computer Assembly and Repair
         university: Melbourne Polytechnic
         time: 2021-2022
-      - degree: CIV in IT Programming
+      - degree: Certificate IV in IT Programming
         university: Swinburne University
         time: 2022
 
@@ -70,24 +71,22 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are some of the projects I have worked on. 
     assignments:
       - title: Student Management System
-        link: "#hook"
-        tagline: "A work in progress system for teachers to use to manage classes and students"
+        link: "https://github.com/frncmdev/Student-Management-System"
+        tagline: "A work in progress system for teachers to use to manage classes and students, this is being made using Angular, C# ASP.NET and Entity Framework Core, with a Microsoft SQL Server"
 
-      - title: Train Kiosk
-        link: "#"
-        tagline: "A responsive website template designed to list trains departures from Richmond stations."
+      - title: Train Kiosk Admin Panel
+        link: "https://github.com/frncmdev/Train-Kiosk-Admin"
+        tagline: "The Admin panel of the Train Kiosk Application. this is being built with Angular, ASP.NET Core with Entity Framework Core, and Microsoft SQL Server"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: C# (ASP.NET)
-        level: 80%
+        level: 85%
 
       - name: Typescript
         level: 80%
